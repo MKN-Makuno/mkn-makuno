@@ -1,4 +1,4 @@
-### Hi there 👋
+### Make random stuff as usual
 
 <!--
 **MKN-Makuno/mkn-makuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
